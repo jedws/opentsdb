@@ -7,3 +7,8 @@ build
 config.log
 config.status
 configure
+.cache
+.classpath
+.project
+.target/
+target/
